@@ -1,6 +1,6 @@
 # Protalyze
 
-A web-based protein sequence analysis platform that lets users search, align, and analyse protein families across taxonomic groups. 
+A web-based protein sequence analysis platform that lets users search, align, and analyse protein families across taxonomic groups. This was built as a university coursework project and ran on a university server during the course. The live version is no longer available, but will be soon.
 
 ## What it does
 
